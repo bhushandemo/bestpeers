@@ -1,0 +1,2 @@
+class Hoste < ApplicationRecord
+end

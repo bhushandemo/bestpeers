@@ -1,0 +1,10 @@
+<%= form_with(model: @teacher) do |form| %>
+  <%= form.label :name %>
+  <%= form.text_field :name %>
+
+  <%= form.fields_for :students do |f| %>
+    <%= f.label :studentsname %>
+    <%= f.text_field :student_name %>
+  <% end %>
+  <%= form.submit %>
+<% end %>

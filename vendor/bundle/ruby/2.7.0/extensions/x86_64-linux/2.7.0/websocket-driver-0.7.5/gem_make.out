@@ -1,0 +1,18 @@
+current directory: /home/bhushan/Documents/sites/bestpeers/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+/home/bhushan/.rvm/rubies/ruby-2.7.1/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/bhushan/Documents/sites/bestpeers/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20230723-7084-svw1fu sitelibdir\=./.gem.20230723-7084-svw1fu clean
+
+current directory: /home/bhushan/Documents/sites/bestpeers/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20230723-7084-svw1fu sitelibdir\=./.gem.20230723-7084-svw1fu
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: /home/bhushan/Documents/sites/bestpeers/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20230723-7084-svw1fu sitelibdir\=./.gem.20230723-7084-svw1fu install
+/usr/bin/install -m 0755 websocket_mask.so ./.gem.20230723-7084-svw1fu
+
+current directory: /home/bhushan/Documents/sites/bestpeers/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20230723-7084-svw1fu sitelibdir\=./.gem.20230723-7084-svw1fu clean

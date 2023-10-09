@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  bname: MyString
+  hostel: one
+
+two:
+  bname: MyString
+  hostel: two
